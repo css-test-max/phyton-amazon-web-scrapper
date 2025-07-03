@@ -1,0 +1,102 @@
+{
+  "Electronics": {
+    "iPhone 15 Pro": {
+      "current_price": 949.99,
+      "price_history": [
+        {
+          "price": 999.99,
+          "date": "2025-07-03"
+        }
+      ],
+      "first_added": "2025-07-03",
+      "last_updated": "2025-06-28",
+      "additional_info": {
+        "brand": "Apple",
+        "model": "A3108",
+        "storage": "128GB"
+      }
+    },
+    "Samsung Galaxy S24": {
+      "current_price": 899.99,
+      "price_history": [],
+      "first_added": "2025-07-03",
+      "last_updated": "2025-07-03",
+      "additional_info": {
+        "brand": "Samsung",
+        "model": "SM-S921",
+        "storage": "256GB"
+      }
+    },
+    "MacBook Air M3": {
+      "current_price": 1099.99,
+      "price_history": [
+        {
+          "price": 1199.99,
+          "date": "2025-07-03"
+        }
+      ],
+      "first_added": "2025-07-03",
+      "last_updated": "2025-07-03",
+      "additional_info": {
+        "brand": "Apple",
+        "screen": "13.6 inch",
+        "processor": "M3"
+      }
+    }
+  },
+  "Home & Garden": {
+    "Dyson V15 Detect": {
+      "current_price": 749.99,
+      "price_history": [],
+      "first_added": "2025-07-03",
+      "last_updated": "2025-07-03",
+      "additional_info": {
+        "brand": "Dyson",
+        "type": "Cordless Vacuum",
+        "battery_life": "60 minutes"
+      }
+    },
+    "Instant Pot Duo 7-in-1": {
+      "current_price": 79.99,
+      "price_history": [],
+      "first_added": "2025-07-03",
+      "last_updated": "2025-07-03",
+      "additional_info": {
+        "brand": "Instant Pot",
+        "capacity": "6 quart",
+        "functions": 7
+      }
+    },
+    "Dirt Devil Endura Lite Bagless Vacuum Cleaner, Small Upright for Carpet and Hard Floor, Lightweight, UD20121PC, Red": {
+      "current_price": 54.99,
+      "price_history": [],
+      "first_added": "2023-12-04",
+      "last_updated": "2023-12-04",
+      "additional_info": {}
+    }
+  },
+  "Books": {
+    "The Psychology of Money": {
+      "current_price": 14.99,
+      "price_history": [],
+      "first_added": "2025-07-03",
+      "last_updated": "2025-07-03",
+      "additional_info": {
+        "author": "Morgan Housel",
+        "pages": 256,
+        "publisher": "Harriman House"
+      }
+    },
+    "Atomic Habits": {
+      "current_price": 13.49,
+      "price_history": [],
+      "first_added": "2025-07-03",
+      "last_updated": "2025-07-03",
+      "additional_info": {
+        "author": "James Clear",
+        "pages": 320,
+        "publisher": "Avery"
+      }
+    }
+  }
+}

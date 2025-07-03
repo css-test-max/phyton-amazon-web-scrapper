@@ -1,0 +1,15 @@
+{
+  "Home & Garden": {
+    "Dirt Devil Endura Lite Bagless Vacuum Cleaner, Small Upright for Carpet and Hard Floor, Lightweight, UD20121PC, Red": {
+      "current_price": 54.99,
+      "price_history": [],
+      "first_added": "2023-12-04",
+      "last_updated": "2023-12-04",
+      "additional_info": {
+        "source": "Amazon",
+        "scraped_date": "2025-07-03",
+        "original_category": "Auto-categorized"
+      }
+    }
+  }
+}

@@ -1,0 +1,54 @@
+============================================================
+PRICE STORAGE REPORT
+============================================================
+Generated on: 2025-07-03 11:56:57
+Total Categories: 3
+Total Products: 7
+
+CATEGORY: Electronics
+----------------------------------------
+Products in category: 3
+Price range: $899.99 - $1099.99
+Average price: $983.32
+
+  • iPhone 15 Pro
+    Current Price: $949.99
+    Last Updated: 2025-06-28
+    Price Changes: 1
+
+  • Samsung Galaxy S24
+    Current Price: $899.99
+    Last Updated: 2025-07-03
+
+  • MacBook Air M3
+    Current Price: $1099.99
+    Last Updated: 2025-07-03
+    Price Changes: 1
+
+CATEGORY: Home & Garden
+----------------------------------------
+Products in category: 2
+Price range: $79.99 - $749.99
+Average price: $414.99
+
+  • Dyson V15 Detect
+    Current Price: $749.99
+    Last Updated: 2025-07-03
+
+  • Instant Pot Duo 7-in-1
+    Current Price: $79.99
+    Last Updated: 2025-07-03
+
+CATEGORY: Books
+----------------------------------------
+Products in category: 2
+Price range: $13.49 - $14.99
+Average price: $14.24
+
+  • The Psychology of Money
+    Current Price: $14.99
+    Last Updated: 2025-07-03
+
+  • Atomic Habits
+    Current Price: $13.49
+    Last Updated: 2025-07-03

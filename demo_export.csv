@@ -1,0 +1,8 @@
+Category,Product,Current_Price,First_Added,Last_Updated,Price_History_Count,Additional_Info
+Electronics,iPhone 15 Pro,949.99,2025-07-03,2025-06-28,1,"{'brand': 'Apple', 'model': 'A3108', 'storage': '128GB'}"
+Electronics,Samsung Galaxy S24,899.99,2025-07-03,2025-07-03,0,"{'brand': 'Samsung', 'model': 'SM-S921', 'storage': '256GB'}"
+Electronics,MacBook Air M3,1099.99,2025-07-03,2025-07-03,1,"{'brand': 'Apple', 'screen': '13.6 inch', 'processor': 'M3'}"
+Home & Garden,Dyson V15 Detect,749.99,2025-07-03,2025-07-03,0,"{'brand': 'Dyson', 'type': 'Cordless Vacuum', 'battery_life': '60 minutes'}"
+Home & Garden,Instant Pot Duo 7-in-1,79.99,2025-07-03,2025-07-03,0,"{'brand': 'Instant Pot', 'capacity': '6 quart', 'functions': 7}"
+Books,The Psychology of Money,14.99,2025-07-03,2025-07-03,0,"{'author': 'Morgan Housel', 'pages': 256, 'publisher': 'Harriman House'}"
+Books,Atomic Habits,13.49,2025-07-03,2025-07-03,0,"{'author': 'James Clear', 'pages': 320, 'publisher': 'Avery'}"
