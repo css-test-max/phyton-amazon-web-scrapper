@@ -1,0 +1,11 @@
+{
+  "Sports": {
+    "Nike Air Max 270": {
+      "current_price": 150.0,
+      "price_history": [],
+      "first_added": "2025-07-03",
+      "last_updated": "2025-07-03",
+      "additional_info": {}
+    }
+  }
+}
